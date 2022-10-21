@@ -1,16 +1,26 @@
-### Hi there 👋
+<!DOCTYPE HTML>
+<html>
+<head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8" />
 
-<!--
-**AyakiraAnitah/AyakiraAnitah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    <title>My profile page</title>
+    
+</head>
+<body bgcolor="pink">
+    <h1>Ayakira Anitah</h1>
+    <img src="image.jpg"width="40%" height="40%"alt="" />
+    <h3>Bachelor Of Information Technology</h3>
+    <a href="https:facebook.com/Anitah Eazi Diver">https:facebook.com/Anitah Eazi Diver</a>
+    <h2>student at kab in projects like;</h2>
+    <ul>
+        <li>web development</li>
+        <li>networking</li>
+        <li>cloud computing</li>
+        <li>mapping</li>
+        <li>graphic design</li>
+    </ul><hr />
+    <h1>Contact me</h1>
+    <p>Phone Number:  0706995524</p>
+    <p>Email: ayakiraanitah21@gmail.com</p>
+</body>
+</html>
